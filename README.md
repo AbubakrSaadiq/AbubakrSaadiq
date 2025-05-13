@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/l_aboubakrine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l_aboubakrine" height="30" width="40" /></a>
-<a href="https://instagram.com/abubak_saadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abubak_saadiq" height="30" width="40" /></a>
+<a href="https://instagram.com/abubak__saadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abubak__saadiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
